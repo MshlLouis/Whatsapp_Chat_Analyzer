@@ -18,8 +18,12 @@ Next you want to unzip your files into a folder. Make sure to do this in a folde
 6. Finally you can download everything as an image using the "Save as Image" button on the top left.
 
 
+## 3: Example
 
-## 3: Problems
+![Example1](https://github.com/user-attachments/assets/05468218-660a-4b8e-a8fa-af88ef93d202)
+
+
+## 4: Problems
 
 If you run into any problems, feel free to message me on Discord (https://discord.com/users/411997919814877185) or create a new entry in the Issues tab.
 

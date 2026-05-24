@@ -1,0 +1,3 @@
+rootProject.name = 'Whatsapp_Chat_Analyzer'
+include 'src'
+

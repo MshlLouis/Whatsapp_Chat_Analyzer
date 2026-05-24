@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>WhatsApp Chat Analyzer</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app-container">
+    <div class="toolbar">
+        <div class="btn-group">
+            <button id="exportImageBtn" class="btn btn-primary">📸 Save as Image</button>
+            <button id="resetDefaultBtn" class="btn btn-outline">↺ Reset Demo</button>
+        </div>
+        <div class="json-input-area">
+            <label>📂 Import JSON:</label>
+            <input type="file" id="jsonFileInput" accept="application/json">
+            <!-- 🔽 replaced "supports word frequencies" with dark mode button -->
+            <button id="darkModeToggle" class="btn btn-outline">🌙 Dark Mode</button>
+        </div>
+    </div>
+
+    <div class="stats-card" id="statsCard">
+        <div class="card-inner" id="renderTarget"></div>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

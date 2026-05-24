@@ -1,4 +1,4 @@
-# A program to summarize a Whatsapp Chat into a JSON file, display them on a Website and download as an image
+# A program to summarize a Whatsapp Chat into a JSON file, display them on a Website and download as an Image
 
 
 ## 1: Requirements

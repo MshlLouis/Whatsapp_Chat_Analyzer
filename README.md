@@ -20,7 +20,7 @@ Next you want to unzip your files into a folder. Make sure to do this in a folde
 
 ## 3: Example
 
-![Example1](https://github.com/user-attachments/assets/05468218-660a-4b8e-a8fa-af88ef93d202)
+<img width="1000" height="1627" alt="Image" src=https://github.com/user-attachments/assets/05468218-660a-4b8e-a8fa-af88ef93d202 />
 
 
 ## 4: Problems
